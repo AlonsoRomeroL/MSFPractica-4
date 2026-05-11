@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 4: Sistema endocrino'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alonso
+    family-names: Romero Landa
+    email: L21212749@TECTIJUANA.EDU.MX
+    affiliation: Tecnológico Nacional De México
+identifiers:
+  - type: url
+    value: 'https://github.com/AlonsoRomeroL/MSFPractica-4'
+    description: Repositorio Github
+repository-code: 'https://github.com/AlonsoRomeroL/MSFPractica-4'
+keywords:
+  - Sistema Endocrino
+  - Circuito RLC
+  - Controlador PID
+  - Modelo Matematico
+  - Simulaciones Numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-05-11'
