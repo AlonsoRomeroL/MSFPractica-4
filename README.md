@@ -2,9 +2,9 @@
 
 # Práctica 4: Sistema endócrino
 
-## Información de la estudiante
+## Información del estudiante
 
-Sanchez Perez Keybin Daniel \[23210721]; l23210721@tectijuana.edu.mx
+Romero Landa Alonso Alejandro \ [l21212749]; l21212749@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
